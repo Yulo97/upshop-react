@@ -1,0 +1,58 @@
+.categoriaProducto {
+  list-style: none;
+  text-transform: uppercase;
+  margin: 0 20px 0 20px;
+  font-family: Montserrat;
+  cursor: pointer;
+  font-size: 14px;
+  color: #fb07dc;
+}
+
+.categoriaProducto:hover {
+  color: #fb07dc;
+}
+
+.navUl {
+  margin-top: 10px;
+  width: 100%;
+  list-style: none;
+}
+
+.nav__buscador form {
+  max-width: 300px;
+}
+
+.navCarrito {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.carritoIcono {
+  color: #fb07dc;
+  font-size: 35px;
+}
+
+.carritoCantidad {
+  flex-wrap: wrap;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px;
+  padding: 2px;
+  margin-left: 5px;
+  background-color: #fb07dc;
+  border: 2px solid #fb07dc;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+}
+
+/* COLORES
+
+rosa: #fb07dc;
+rosa oscuro: #de2572;
+gris: #434343; 
+*/

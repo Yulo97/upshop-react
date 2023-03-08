@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.btnPrimario {
+  background-color: #de2572;
+  color: #fff;
+  border-radius: 4px;
+}
+
+.btnPrimario:hover {
+  background-color: #434343;
+  color: #fff;
+}
+
+.btnSecundario {
+  background-color: #434343;
+  color: #fff;
+  border-radius: 4px;
+}
+
+/* COLORES
+
+rosa: #fb07dc;
+rosa oscuro: #de2572;
+gris: #434343; 
+*/
